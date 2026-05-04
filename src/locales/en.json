@@ -1,0 +1,155 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "products": "Products",
+    "projects": "Projects",
+    "contact": "Contact Us",
+    "getQuote": "Get a Quote"
+  },
+  "home": {
+    "heroTitle": "Growing the Future of Agriculture with Innovation",
+    "heroDesc": "Empowering farmers with smart technology, sustainable practices, and premium resources for a better tomorrow.",
+    "explore": "Explore Products",
+    "contactUs": "Contact Us",
+    "stats": {
+      "exp": "Years of Experience",
+      "farmers": "Farmers Served",
+      "products": "Products Delivered",
+      "projects": "Projects Completed"
+    },
+    "expertise": "Our Expertise",
+    "premiumServices": "Premium Agricultural Services",
+    "services": {
+      "s1Title": "Organic Farming",
+      "s1Desc": "Sustainable and eco-friendly farming solutions.",
+      "s2Title": "Smart Agriculture",
+      "s2Desc": "Tech-driven approaches to modern farming.",
+      "s3Title": "Crop Solutions",
+      "s3Desc": "High-yield seeds and plant protection.",
+      "s4Title": "Irrigation Systems",
+      "s4Desc": "Water-efficient irrigation technology."
+    },
+    "testimonials": "Testimonials",
+    "whatFarmersSay": "What Farmers Say",
+    "t1": "\"Prinstan Agri Care completely transformed our yield this season. Their smart agriculture solutions are simply unmatched in the market.\""
+  },
+  "about": {
+    "title": "About Prinstan Agri Care",
+    "subtitle": "Pioneering the future of agriculture through innovation and sustainability.",
+    "ourStory": "Our Story",
+    "story1": "Founded in 1998, Prinstan Agri Care started with a simple belief: that technology and nature can work in harmony. What began as a small regional supplier has grown into a global leader in agricultural innovation.",
+    "story2": "We've dedicated the last two decades to developing solutions that not only increase crop yields but do so while preserving our planet's precious resources. Our journey is driven by the passion of the farmers we serve.",
+    "vision": "Our Vision",
+    "visionDesc": "To create a world where agriculture sustains and enriches life globally, utilizing cutting-edge technology to eliminate food scarcity while protecting the environment.",
+    "mission": "Our Mission",
+    "missionDesc": "To empower farmers with innovative, sustainable, and highly effective agricultural solutions that maximize productivity and ensure long-term ecological balance.",
+    "coreValues": "Core Values",
+    "values": {
+      "v1Title": "Sustainability",
+      "v1Desc": "Committed to green and eco-friendly farming practices.",
+      "v2Title": "Global Reach",
+      "v2Desc": "Empowering farmers across borders with local solutions.",
+      "v3Title": "Integrity",
+      "v3Desc": "Building trust through transparency and reliable results."
+    },
+    "leadership": "Meet Our Leadership",
+    "leadershipSub": "The brilliant minds driving Prinstan Agri Care's mission forward.",
+    "roles": {
+      "ceo": "Managing Director",
+      "gm": "GM",
+      "agm": "AGM",
+      "branchManager": "Branch Manager"
+    }
+  },
+  "products": {
+    "title": "Our Products",
+    "subtitle": "Premium agricultural supplies and equipment for modern farming.",
+    "search": "Search products...",
+    "categories": {
+      "All": "All",
+      "Seeds": "Seeds",
+      "Fertilizers": "Fertilizers",
+      "Pesticides": "Pesticides",
+      "Equipment": "Farming Equipment",
+      "Irrigation": "Irrigation Systems"
+    },
+    "inquiry": "Send Inquiry",
+    "noProducts": "No products found",
+    "tryAdjusting": "Try adjusting your search or category filter.",
+    "items": {
+      "p1Name": "Product 1",
+      "p1Desc": "High-yield, drought-resistant corn seeds.",
+      "p2Name": "Product 2",
+      "p2Desc": "100% organic fertilizer for robust plant growth.",
+      "p3Name": "Product 3",
+      "p3Desc": "Protects crops without harming the environment.",
+      "p4Name": "Heavy-Duty Tractor X1",
+      "p4Desc": "Reliable and powerful for all field tasks.",
+      "p5Name": "Smart Drip System",
+      "p5Desc": "Automated water-saving drip irrigation.",
+      "p6Name": "Wheat Seeds Pro",
+      "p6Desc": "Premium wheat seeds for optimal harvest.",
+      "p7Name": "Liquid Growth Booster",
+      "p7Desc": "Fast-acting liquid fertilizer for quick nutrient absorption.",
+      "p8Name": "Harvest Harvester",
+      "p8Desc": "State-of-the-art combine harvester."
+    }
+  },
+  "projects": {
+    "title": "Successful Projects",
+    "subtitle": "Transforming agriculture worldwide through innovation, technology, and sustainable practices.",
+    "items": {
+      "pr1Title": "Green Valley Smart Irrigation",
+      "pr1Desc": "Implemented a fully automated AI-driven drip irrigation system across 500 acres of farmland, reducing water consumption by 40% while increasing yield.",
+      "pr2Title": "High-Yield Wheat Restoration",
+      "pr2Desc": "Revitalized nutrient-depleted soil using our premium organic fertilizers and advanced crop rotation techniques, resulting in a record-breaking harvest.",
+      "pr3Title": "Eco-Farm Drone Monitoring",
+      "pr3Desc": "Deployed a fleet of agricultural drones for real-time crop health monitoring and targeted pesticide application, significantly reducing chemical usage.",
+      "pr4Title": "Solar-Powered Greenhouse",
+      "pr4Desc": "Designed and constructed a state-of-the-art, 100% solar-powered greenhouse facility for year-round organic vegetable production."
+    },
+    "ready": "Ready to transform your farm?",
+    "join": "Join hundreds of successful farmers who have revolutionized their yield with Prinstan Agri Care.",
+    "start": "Start Your Project"
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "subtitle": "We're here to help you grow. Reach out to our team of agricultural experts today.",
+    "info": "Contact Information",
+    "location": "Our Location",
+    "phone": "Phone Number",
+    "email": "Email Address",
+    "follow": "Follow Us",
+    "sendMsg": "Send us a Message",
+    "form": {
+      "name": "Full Name",
+      "email": "Email Address",
+      "phone": "Phone Number",
+      "message": "Your Message",
+      "send": "Send Message",
+      "namePlace": "John Doe",
+      "emailPlace": "john@example.com",
+      "phonePlace": "+91 (00) 0000-0000",
+      "msgPlace": "How can we help you?"
+    }
+  },
+  "footer": {
+    "desc": "Growing the future of agriculture with innovative solutions, sustainable practices, and cutting-edge technology for farmers worldwide.",
+    "quickLinks": "Quick Links",
+    "services": "Services",
+    "contact": "Contact Us",
+    "rights": "Prinstan Agri Care. All rights reserved. Designed with"
+  },
+  "chatbot": {
+    "header": "Prinstan Assistant",
+    "online": "Online",
+    "input": "Type your message...",
+    "welcome": "Hi! I am the Prinstan Agri Care assistant. How can I help you today? You can ask me about our company, products, or projects.",
+    "fallback": "I'm sorry, I didn't quite catch that. Try asking about our 'company', 'products', or 'projects'.",
+    "replyGreetings": "Hello there! How can I assist you with Prinstan Agri Care today?",
+    "replyCompany": "Prinstan Agri Care was founded in 1998. We are a global leader in agricultural innovation, focusing on sustainability and high-yield technology.",
+    "replyProducts": "We offer a wide range of premium products including organic fertilizers, high-yield seeds, smart irrigation systems, and heavy-duty farming equipment. Check out our Products page!",
+    "replyProjects": "We have successfully completed over 150 projects globally, including smart irrigation in Maharashtra and eco-farm drone monitoring in Gujarat. View our Projects page for more info."
+  }
+}
